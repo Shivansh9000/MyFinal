@@ -1,0 +1,37 @@
+body {
+	background:url(../images/image3.jpg) top center no-repeat #000;
+	
+	 background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+	border:500;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#3a3a3a;
+	margin: 0;
+	padding: 0;
+	
+            
+            
+}
+table{
+
+border-color:black;
+box-shadow:10px 10px 10px ;
+background-color:steelblue;
+width:40%;
+  }
+th{
+    border: 2;
+	text-align:left;
+	text-transform : uppercase;
+}
+h2 {
+	font-size:35px;
+	line-height:1.2em;
+	padding:12px 32px 16px 32px;
+	margin-bottom:14px;
+	background:#d3d3d3;
+	position:center;
+	letter-spacing:-1px
+}
